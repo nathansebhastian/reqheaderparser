@@ -1,0 +1,28 @@
+{
+  "name": "reqheaderparser",
+  "version": "1.0.0",
+  "description": "An api to get client's ip address, language and os",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonathansebhastian/reqheaderparser.git"
+  },
+  "keywords": [
+    "api",
+    "js",
+    "npm"
+  ],
+  "author": "yonathansebhastian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yonathansebhastian/reqheaderparser/issues"
+  },
+  "homepage": "https://github.com/yonathansebhastian/reqheaderparser#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
